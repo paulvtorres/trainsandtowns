@@ -1,0 +1,11 @@
+calculateShortRoute 1
+calculateShortRoute 2
+getDistance_1
+getDistance_2
+getDistance_3
+getDistance_4
+getDistance_5
+	calculateRoutesCount
+
+calculateTripsCount 1
+calculateTripsCount 2
