@@ -39,7 +39,6 @@ public class App {
 
     private static Boolean validate(String strIn) {
         String inFormat = "Please input data format: 'AB5,BC4,CD8,DC8,DE6,AD5,CE2,EB3,AE7'";
-
         ArrayList<String> aux = new ArrayList<>();
         if (strIn.length() < GlobalValues.LENGTH_ARRAY_INPUT_MIN) {
             System.out.println("ERROR" + inFormat);
